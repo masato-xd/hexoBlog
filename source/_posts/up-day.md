@@ -1,5 +1,5 @@
 ---
-title: up day
+title: printf的使用
 date: 2017-06-26 22:12:20
 tags:
 ---
